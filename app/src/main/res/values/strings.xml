@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cruzAzul Counter</string>
+
+        <string name="start_timer">Start Game</string>
+        <string name="stop_timer">Half-time break</string>
+        <string name="reset_timer">Reset Game</string>
+        <string name="timer">00:00:00</string>
+    </resources>
